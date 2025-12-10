@@ -26,6 +26,10 @@ each bar is visually distinct. I hide the legend on purpose, because the labels 
 on the County column, selected the top 15 counties with nlargest(15), and then filtered the dataframe to only those rows. This transformation keeps the story focused on the counties with the highest concentration
 of state buildings and avoids a long tail of tiny bars that would clutter the view and distract from the main pattern.
 
+
+<iframe src="/assets/hw5_plot1.html" width="800" height="450"></iframe>
+
+
 ---
 
 ## Plot 2 – Year Built vs. Square Footage with County Breakdown
@@ -37,6 +41,10 @@ I then filtered to buildings constructed in 1950 or later and limited Square Foo
 of the other points at the bottom of the chart. For the bottom panel, I aggregate the brushed subset of buildings by County, compute a count for each one, and then use a window transform to keep only the top 15 counties. 
 That summary is shown as a horizontal bar chart with the number of buildings in the current selection on the x-axis and County on the y-axis, which makes it easy to compare which counties dominate within whatever slice
 of the scatterplot I am focusing on.
+
+
+
+<iframe src="/assets/hw5_plot2.html" width="800" height="450"></iframe>
 
 ---
 
