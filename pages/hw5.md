@@ -8,10 +8,6 @@ permalink: /hw5/
 
 ### Links
 
-## Homework 5 – Building Inventory Visualizations
-
-### Links
-
 - **The Data:** [building_inventory.csv](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)  
 - **The Analysis (Jupyter Notebook):** [hw5_building_inventory.ipynb](https://github.com/ankitasahni200-blip/ankitasahni200-blip.github.io/blob/main/python_notebooks/hw5_building_inventory.ipynb)
 
